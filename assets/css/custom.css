@@ -5,10 +5,7 @@ html {
 
 .thumb-img {
   border-color: #000000 !important;
-  display: block;
-  width: 100%;           /* Remove or adjust if your layout already sets widths */
-  margin-bottom: 4px;    /* Thickness of the gap; change to your preferred value */
-}
+  margin-right: 4px;    /* Thickness of the gap; change to your preferred value */
 }
 
 #loupeContainer div.background {
