@@ -4,5 +4,7 @@ This is a repository to provide a [gallery](https://quasar1357.github.io/BDSD202
 
 
 © [Roman Schwob], [2026]. All rights reserved.
+
 Reproduction, distribution, or use in any form without written permission is prohibited.
+
 Single images might be used upon request.
