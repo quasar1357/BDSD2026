@@ -1,5 +1,8 @@
 # Bern Data Science Day - Gallery
 
-This is a repository to provide a gallery of the pictures taken by Roman Schwob.
+This is a repository to provide a [gallery](https://quasar1357.github.io/BDSD2026/) of the pictures taken by Roman Schwob at the Bern Data Science Day.
 
-The pictures are copyrighted, but single images might be used upon request.
+
+© [Roman Schwob], [2026]. All rights reserved.
+Reproduction, distribution, or use in any form without written permission is prohibited.
+Single images might be used upon request.
