@@ -301,8 +301,7 @@ div.thumbnails {
 div.thumbnail {
     position: relative;
     display:inline-block;
-    margin: 0 8px;
-    /* -moz-box-sizing: border-box;
+    -moz-box-sizing: border-box;
     box-sizing: border-box;
     cursor: pointer;
 
