@@ -293,7 +293,7 @@ header ul.gallery-meta li {
 
 div.thumbnails {
     overflow: hidden;
-    margin: 0 8px;
+    margin: 0 auto;
    -moz-box-sizing: border-box;
     box-sizing: border-box;
     text-align: center;
@@ -302,7 +302,7 @@ div.thumbnails {
 div.thumbnail {
     position: relative;
     display:inline-block;
-   -moz-box-sizing: border-box;
+    margin: 0 8px;
     box-sizing: border-box;
     cursor: pointer;
 
