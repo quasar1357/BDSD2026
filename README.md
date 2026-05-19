@@ -1,4 +1,4 @@
-# -BDSD2026
+# BDSD2026
 
 This is a repository to provide a gallery of the pictures taken by Roman Schwob.
 
